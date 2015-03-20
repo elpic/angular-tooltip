@@ -1,6 +1,6 @@
 {
   "name": "angular-tooltip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./src/angular-tooltip.js",
   "repository": {
     "type": "git",
