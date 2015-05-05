@@ -25,8 +25,8 @@
       // Default template for tooltips.
       var defaultTemplateUrl = 'template/ng-tooltip.html';
       var defaultTetherOptions = {
-        attachment: 'top middle',
-        targetAttachment: 'bottom middle'
+        attachment: 'bottom left',
+        targetAttachment: 'top left'
       };
 
       this.setDefaultTemplateUrl = function(templateUrl) {
